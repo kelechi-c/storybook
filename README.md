@@ -1,3 +1,3 @@
 ## storybook 🎨📖
 
-Turn **text** narration to **multi-image visual stories** with **image generation** models like **flux schnell/sdxl/BK-SDM**.
+Turn **stories/text narration** to **multi-image visual stories** with **text-image** models like **Flux/sdxl/BK-SDM**.
